@@ -1,8 +1,6 @@
 # ApoBot
-ApoBot alias crowbot sert a faire des bots custom pour des serveurs !
+🍀 - Voici le leak complet d'Apo CrowBot ! 
 
-# Installation
-Allez sur le cmd rédirectionnez vous vers le dossier principal et tapez npm i ensuite node . enfin faites vos config dans config.json
+🤞 - Npm i puis mettez votre token et tous seras bon :)
 
-# Skid List
-1) Y'en a pas pour le moment
+💔  - Enjoy <3
